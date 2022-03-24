@@ -9,6 +9,7 @@ function number100to200(input) {
     } else if (num > 200) {
         console.log("Greater than 200");
     }
+    
 }
 
-number100to200(["130"]);    
+number100to200(["120"]);    
